@@ -1,4 +1,4 @@
-## Prazer, Sou o Georgenil. Um dev que adora o mundo da tecnologia 💻.
+## Um dev que adora o mundo da tecnologia 💻.
 
 
  <div>
