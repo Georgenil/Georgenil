@@ -1,4 +1,4 @@
-## Um dev que adora o mundo da tecnologia 💻.
+## Um Dev que adora o mundo da tecnologia 💻.
 
 
  <div>
