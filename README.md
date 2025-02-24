@@ -3,8 +3,7 @@
 
 <div>
   <a href="https://github.com/Georgenil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Georgenil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Georgenil-negao" src="https://media3.giphy.com/media/e5BASCeekXYoo/100.webp?cid=ecf05e47keelugdg83u5ej5t8oiktnb4g4udbo921149ty17&rid=100.webp&ct=g">
+  <img  alt="Georgenil-negao" src="https://media3.giphy.com/media/e5BASCeekXYoo/100.webp?cid=ecf05e47keelugdg83u5ej5t8oiktnb4g4udbo921149ty17&rid=100.webp&ct=g">
 </div>
 
   ## 📝 Tecnologias que domino
