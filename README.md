@@ -11,7 +11,7 @@
 #Backend
 
 - C#
-- .Net Core 3,5,6,8
+- .Net Core 2, 3,5,6,8
 - .Net Framework 4.5
 - Rest API
 - Razor
@@ -19,7 +19,6 @@
 - RPA
 - Dapper
 - AutoMapper 
-- Migrations
 - Teste Unitário 
 - Teste de Integração 
 - Autenticação JWT
@@ -36,13 +35,18 @@
 - TypeScript
 
 #Arquiteturais
+- Clean architecture 
 - SOLID
 - DDD
 - MVVM
+- CQRS
+- MEDIATOR
 - Repository Pattern
 - Options Pattern
 - Facade Pattern 
 
+#Nuvem 
+- Azure Devops
  
 <div> 
   <a href="https://instagram.com/georgeoneall" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
